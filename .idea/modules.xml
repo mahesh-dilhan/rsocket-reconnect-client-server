@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/reconnect-client/reconnect-client.iml" filepath="$PROJECT_DIR$/reconnect-client/reconnect-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket.iml" filepath="$PROJECT_DIR$/reconnect-rsocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket-client/reconnect-rsocket-client.iml" filepath="$PROJECT_DIR$/reconnect-rsocket-client/reconnect-rsocket-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reconnectclient/reconnectclient.iml" filepath="$PROJECT_DIR$/reconnectclient/reconnectclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reconnect-server/reconnect-server.iml" filepath="$PROJECT_DIR$/reconnect-server/reconnect-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/resumable-rsocket.iml" filepath="$PROJECT_DIR$/resumable-rsocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket-client/resumable-rsocket-client.iml" filepath="$PROJECT_DIR$/reconnect-rsocket-client/resumable-rsocket-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket-server/resumable-rsocket-server.iml" filepath="$PROJECT_DIR$/reconnect-rsocket-server/resumable-rsocket-server.iml" />

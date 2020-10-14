@@ -7,14 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="reconnect-rsocket-client" />
+        <module name="reconnect-client" />
+        <module name="reconnect-server" />
         <module name="resumable-rsocket-client" />
         <module name="resumable-rsocket-server" />
-        <module name="reconnectclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="reconnect-client" target="11" />
       <module name="reconnect-rsocket" target="1.5" />
       <module name="reconnect-rsocket-client" target="11" />
+      <module name="reconnect-server" target="11" />
       <module name="reconnectclient" target="11" />
       <module name="reconnectserver" target="11" />
       <module name="resumable-rsocket" target="1.5" />
@@ -24,7 +27,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="reconnect-client" options="-parameters" />
       <module name="reconnect-rsocket-client" options="-parameters" />
+      <module name="reconnect-server" options="-parameters" />
       <module name="reconnectclient" options="-parameters" />
       <module name="reconnectserver" options="-parameters" />
       <module name="resumable-rsocket-client" options="-parameters" />
