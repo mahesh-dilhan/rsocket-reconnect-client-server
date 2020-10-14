@@ -9,7 +9,7 @@
     <description>Reconnect Rsocket connection </description>
     <packaging>pom</packaging>
     <modules>
-        <module>reconnectclient</module>
-        <module>reconnectserver</module>
+        <module>reconnect-client</module>
+        <module>reconnect-server</module>
     </modules>
 </project>

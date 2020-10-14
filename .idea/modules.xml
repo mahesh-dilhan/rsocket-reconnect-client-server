@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket.iml" filepath="$PROJECT_DIR$/reconnect-rsocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket-client/reconnect-rsocket-client.iml" filepath="$PROJECT_DIR$/reconnect-rsocket-client/reconnect-rsocket-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnectclient/reconnectclient.iml" filepath="$PROJECT_DIR$/reconnectclient/reconnectclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reconnectserver/reconnectserver.iml" filepath="$PROJECT_DIR$/reconnectserver/reconnectserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/resumable-rsocket.iml" filepath="$PROJECT_DIR$/resumable-rsocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket-client/resumable-rsocket-client.iml" filepath="$PROJECT_DIR$/reconnect-rsocket-client/resumable-rsocket-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/reconnect-rsocket-server/resumable-rsocket-server.iml" filepath="$PROJECT_DIR$/reconnect-rsocket-server/resumable-rsocket-server.iml" />

@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="reconnect-rsocket-client" />
-        <module name="reconnectserver" />
         <module name="resumable-rsocket-client" />
         <module name="resumable-rsocket-server" />
         <module name="reconnectclient" />
